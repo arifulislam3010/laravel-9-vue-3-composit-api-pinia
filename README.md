@@ -39,5 +39,3 @@ $ git push -u origin branch-name
 ```
 Be sure to do the appropriate tests.
 
-## :key: License
-<!-- [MIT](https://github.com/Joabsonlg/quasar-template/blob/master/LICENCE) -->
